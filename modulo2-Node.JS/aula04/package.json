@@ -1,0 +1,13 @@
+{
+  "name": "aula-node3",
+  "version": "1.0.0",
+  "main": "readline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": ""
+}

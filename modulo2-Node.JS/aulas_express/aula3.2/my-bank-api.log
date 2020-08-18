@@ -1,0 +1,66 @@
+2020-08-07T20:10:14.140Z [my-bank-api] info: API started!
+2020-08-07T20:31:11.205Z [my-bank-api] error: ENOENT: no such file or directory, open 'D:\Breno Noccioli\Desktop\IGTI\modulo2\aulas_express\aula3.2\accounts.json'
+2020-08-07T20:32:08.019Z [my-bank-api] error: ENOENT: no such file or directory, open 'D:\Breno Noccioli\Desktop\IGTI\modulo2\aulas_express\aula3.2\accounts.json'
+2020-08-07T20:34:49.620Z [my-bank-api] info: API started and File created!
+2020-08-07T20:35:13.966Z [my-bank-api] info: API started!
+2020-08-07T21:00:25.481Z [my-bank-api] info: API started!
+2020-08-07T21:05:06.627Z [my-bank-api] info: API started!
+2020-08-07T21:05:43.721Z [my-bank-api] info: API started!
+2020-08-07T21:06:10.043Z [my-bank-api] info: API started!
+2020-08-07T21:06:19.567Z [my-bank-api] info: API started!
+2020-08-07T21:06:30.416Z [my-bank-api] info: API started!
+2020-08-07T21:07:29.267Z [my-bank-api] info: API started!
+2020-08-07T21:07:54.557Z [my-bank-api] info: API started!
+2020-08-07T21:08:23.871Z [my-bank-api] info: API started!
+2020-08-07T21:09:14.331Z [my-bank-api] info: API started!
+2020-08-07T21:10:31.718Z [my-bank-api] info: API started!
+2020-08-07T21:15:19.906Z [my-bank-api] info: API started!
+2020-08-07T21:15:32.373Z [my-bank-api] info: API started!
+2020-08-07T21:16:10.396Z [my-bank-api] info: API started!
+2020-08-07T21:16:27.014Z [my-bank-api] info: API started!
+2020-08-07T21:16:52.378Z [my-bank-api] info: API started!
+2020-08-07T21:19:20.344Z [my-bank-api] info: API started!
+2020-08-07T21:41:49.913Z [my-bank-api] info: GET /account
+2020-08-07T21:42:11.595Z [my-bank-api] info: POST /account - {"id":1,"name":"Guilherme Lins","balance":1280.3}
+2020-08-07T21:42:43.221Z [my-bank-api] info: GET /account/:id
+2020-08-07T23:22:48.452Z [my-bank-api] info: POST /account - {"id":2,"name":"José Silva","balance":180.3}
+2020-08-07T23:25:35.447Z [my-bank-api] info: API started!
+2020-08-07T23:25:58.680Z [my-bank-api] info: API started!
+2020-08-07T23:26:16.978Z [my-bank-api] info: API started!
+2020-08-07T23:27:49.200Z [my-bank-api] info: POST /account - {"id":3,"name":"João Silva","balance":380.3}
+2020-08-07T23:27:56.603Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios
+2020-08-07T23:28:27.133Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios
+2020-08-07T23:28:46.821Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios
+2020-08-07T23:29:29.937Z [my-bank-api] info: API started!
+2020-08-07T23:29:47.392Z [my-bank-api] info: POST /account - {"id":4,"name":"João Silva","balance":0}
+2020-08-07T23:31:39.187Z [my-bank-api] info: API started!
+2020-08-07T23:31:55.552Z [my-bank-api] info: API started!
+2020-08-07T23:32:18.753Z [my-bank-api] info: API started!
+2020-08-07T23:32:50.700Z [my-bank-api] info: API started!
+2020-08-07T23:33:43.979Z [my-bank-api] info: POST /account - {"id":5,"name":"João Silva","balance":0}
+2020-08-07T23:36:06.468Z [my-bank-api] info: API started!
+2020-08-07T23:36:11.497Z [my-bank-api] info: API started!
+2020-08-07T23:36:27.016Z [my-bank-api] info: API started!
+2020-08-07T23:37:13.499Z [my-bank-api] info: API started!
+2020-08-07T23:37:18.989Z [my-bank-api] info: API started!
+2020-08-07T23:38:18.448Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2020-08-07T23:38:23.800Z [my-bank-api] info: PUT /account - {"id":1,"name":"José chaves","balance":2920.3}
+2020-08-07T23:39:39.711Z [my-bank-api] info: API started!
+2020-08-07T23:40:28.877Z [my-bank-api] info: API started!
+2020-08-07T23:41:58.645Z [my-bank-api] info: API started!
+2020-08-07T23:43:13.347Z [my-bank-api] info: API started!
+2020-08-07T23:44:16.744Z [my-bank-api] info: API started!
+2020-08-07T23:44:33.601Z [my-bank-api] info: API started!
+2020-08-07T23:45:23.431Z [my-bank-api] info: API started!
+2020-08-07T23:45:31.223Z [my-bank-api] info: API started!
+2020-08-07T23:45:58.730Z [my-bank-api] info: API started!
+2020-08-07T23:46:06.162Z [my-bank-api] info: API started!
+2020-08-08T00:28:15.008Z [my-bank-api] info: API started!
+2020-08-08T00:28:41.194Z [my-bank-api] info: API started!
+2020-08-08T00:32:07.444Z [my-bank-api] info: GET /account
+2020-08-08T00:32:16.992Z [my-bank-api] info: GET /account
+2020-08-08T00:32:24.310Z [my-bank-api] info: GET /account
+2020-08-08T00:33:30.216Z [my-bank-api] info: GET /account
+2020-08-08T00:37:26.134Z [my-bank-api] info: GET /account
+2020-08-08T00:37:51.260Z [my-bank-api] info: GET /account
+2020-08-08T00:38:09.159Z [my-bank-api] info: GET /account
