@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visualizador de Cores</title>
+    <link rel="stylesheet" href="./css/style.CSS" />
+  </head>
+  <body>
+    <div class="inputs">
+      <h1>Paleta de cores</h1>
+      <div class="box-color"></div>
+      <div class="rgb">rgb</div>
+
+      <label for="inputR" id="txtR">(R) Red/Vermelho </label>
+      <div class="range">
+        <input type="range" min="0" max="255" value="255" id="rangeR" />
+        <input
+          type="number"
+          value="255"
+          class="inputNumber"
+          id="inputNumberR"
+          disabled
+        />
+      </div>
+
+      <label for="inputR" id="txtG">(G) Green/Verde </label>
+      <div class="range">
+        <input type="range" min="0" max="255" value="255" id="rangeG" />
+        <input
+          type="number"
+          value="255"
+          class="inputNumber"
+          id="inputNumberG"
+          disabled
+        />
+      </div>
+
+      <label for="inputR" id="txtB">(B) Blue/Azul </label>
+      <div class="range">
+        <input type="range" min="0" max="255" value="255" id="rangeB" />
+        <input
+          type="number"
+          value="255"
+          class="inputNumber"
+          id="inputNumberB"
+          disabled
+        />
+      </div>
+    </div>
+    <script src="./js/script.JS"></script>
+  </body>
+</html>
